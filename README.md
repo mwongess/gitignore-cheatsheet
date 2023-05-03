@@ -1,1 +1,1 @@
-# gitignore-cheatsheet
+# Gitignore cheatsheet
