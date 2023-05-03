@@ -1,6 +1,11 @@
+# Gitignore Cheatsheet
+### Hidden Files
 .dist
 .env
-/dist
-/tmp
+### Temporary Files
+/tmp -- Hides all the temporary files
+
+
 /node_modules
 /src/**/node_modules
+`*.exe` - Ignore all executable files.
